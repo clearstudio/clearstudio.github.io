@@ -10,7 +10,7 @@ If you choose to use the services provided by us, you agree to collect and use t
 Unless otherwise specified in this privacy policy, terms used in this privacy policy have the same meaning as our terms and conditions.Can be inNetwork+In the access。
 
 
-We just get your webpage HTTP request but DO NOT collect any information or send to any server.
+**We just get your browser HTTP request but DO NOT collect any information or send to any server.**
 
 
 1.Support
